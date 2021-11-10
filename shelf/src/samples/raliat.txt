@@ -1,7 +1,0 @@
-This week marks the fifth week of me beginning my journey into the tech industry. I became a Data Science Fellow at The Knowledge House this past September through their Innovation Fellowship.
-
-To be quite transparent, learning the programming language Python and how to code has been quite a challenge, but I am learning so much along the way. One major lesson I would like to highlight is productive struggle. I tend to get frustrated when it is difficult for me to grasp a concept, but I have been reminding myself that this is all new to me and the need for patience and consistency is vital. As Fredrick Douglass once said, "If there is no struggle, there is no progress."
-
-I am so grateful to be a part of a cohort of very knowledgeable fellows. The support and motivation I receive from my instructors and classmates makes my journey pleasant. I see myself going very far with this support. Although programming and coding is not easy, I have learned that consistency and practice helps. I love taking time to reflect as I gain new experiences because by this time next year, I will have Python and SQL mastered. I am looking forward to continuing this journey into tech and I can't wait to gain more knowledge, strengthen my drive, and look back to this post to see how far I have come.
-
-Below is an image of when I practiced how to create decisions in a Python program using an if..elif..else statement. I am looking forward to my growth and I can't wait to learn more concepts along the way
